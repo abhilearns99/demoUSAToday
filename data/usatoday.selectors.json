@@ -1,0 +1,10 @@
+{
+  "nav": "nav",
+  "searchToggle": "a:has-text(\"Search\"), button[aria-label=\"Search\"]",
+  "searchInput": "input[placeholder=\"Search\"], input[type=search]",
+  "breakingBanner": "[role=\"region\"] a:has-text(\"BREAKING\")",
+  "newsletterForm": "form:has(input[placeholder=\"Email Address\"])",
+  "subscribeLink": "a:has-text(\"Subscribe\")",
+  "signInLink": "a:has-text(\"Sign In\")",
+  "weatherLink": "a:has-text(\"Weather\"), a[href*=\"/weather\"]"
+}

@@ -1,0 +1,6 @@
+{
+  "brocolli": { "name": "Brocolli - 1 Kg", "price": 120 },
+  "tomato": { "name": "Tomato - 1 Kg", "price": 16 },
+  "beans": { "name": "Beans - 1 Kg", "price": 82 },
+  "cauliflower": { "name": "Cauliflower - 1 Kg", "price": 60 }
+}
